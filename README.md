@@ -14,7 +14,7 @@ Time spent: **6** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.6
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: ![](xss.gif)
   - [ ] Steps to recreate: Post a comment on the wordpress site containing a malicious XSS script (such as a link).
   - [ ] Affected source code:
     - [Link 1](https://wpvulndb.com/vulnerabilities/8358)
@@ -23,7 +23,7 @@ Time spent: **6** hours spent in total
     - Vulnerability types: User Enumeration
     - Tested in version: 4.2
     - Fixed in version: 4.7.1
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: ![](userenumeration.gif)
   - [ ] Steps to recreate: wpscan --url http://<wordpress site address> --enumerate u
   - [ ] Affected source code:
     - [Link 1](https://www.exploit-db.com/exploits/41497/)
